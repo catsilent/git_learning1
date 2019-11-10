@@ -1,2 +1,3 @@
 Added for merge branch test
 Added for another merge branch test
+Added for merge rebase branch test 2
